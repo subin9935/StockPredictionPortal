@@ -1,0 +1,2 @@
+# StockPredictionPortal
+Django App
